@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+venv/
+env.bak/
+venv.bak/
+
+# paths
+data/
+
+# logs
+logs
+
+# cache
+__pycache__
